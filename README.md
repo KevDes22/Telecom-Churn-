@@ -1,4 +1,14 @@
 # Telecom Customer Churn Analysis: California Q2 2022
+##Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Methodology](#methodology)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results and Insights](#results-and-insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 ### Project Overview
 This project analyzes customer churn for a California-based telecommunications company in Q2 2022, using a dataset of 1,581 customers. The analysis focuses on understanding churn drivers, customer demographics, and revenue patterns to inform retention strategies
 ### Objectives
@@ -44,7 +54,7 @@ Attitude (11.3%), Other (2.2%).
 - Payment Method: Bank Withdrawal (74.4%), Credit Card (20.0%), Mailed Check (5.6%).
 - Total Revenue: $3,515,616.87, with $2,720,675.80 in total charges, $785,923.56 in long-distance charges, and $11,670 in extra data charges.
 
-### Results & Insights
+### Results and Insights
 - High Churn in Month-to-Month Contracts: Customers on Month-to-Month contracts (88.5%) are more likely to churn, likely due to the flexibility to leave without penalties.
 - Competitor-Driven Churn: Nearly half of churn (48.5%) is due to competitors, suggesting aggressive competition in pricing or service quality.
 - Age-Based Revenue Patterns: Older customers (60-78) contribute significantly to revenue, indicating a loyal but potentially at-risk segment.
