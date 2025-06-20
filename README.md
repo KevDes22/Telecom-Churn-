@@ -1,5 +1,5 @@
 # Telecom Customer Churn Analysis: California Q2 2022
-##Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Data Source](#data-source)
