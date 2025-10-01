@@ -55,6 +55,7 @@ Attitude (11.3%), Other (2.2%).
 - Total Revenue: $3,515,616.87, with $2,720,675.80 in total charges, $785,923.56 in long-distance charges, and $11,670 in extra data charges.
 
 ### Results and Insights
+![results](https://github.com/KevDes22/Telecom-Churn-/blob/main/churnshot.PNG)
 - High Churn in Month-to-Month Contracts: Customers on Month-to-Month contracts (88.5%) are more likely to churn, likely due to the flexibility to leave without penalties.
 - Competitor-Driven Churn: Nearly half of churn (48.5%) is due to competitors, suggesting aggressive competition in pricing or service quality.
 - Age-Based Revenue Patterns: Older customers (60-78) contribute significantly to revenue, indicating a loyal but potentially at-risk segment.
